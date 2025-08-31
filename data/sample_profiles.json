@@ -1,0 +1,29 @@
+{
+  "profiles": [
+    {
+      "id": "001",
+      "name": "Maria",
+      "mobility": "assisted",
+      "preferred_channel": "sms",
+      "preferences": {
+        "liked_categories": [
+          "social",
+          "learning"
+        ],
+        "max_distance_km": 5
+      }
+    },
+    {
+      "id": "002",
+      "name": "Ken",
+      "mobility": "independent",
+      "preferred_channel": "sms",
+      "preferences": {
+        "liked_categories": [
+          "hobby"
+        ],
+        "max_distance_km": 8
+      }
+    }
+  ]
+}

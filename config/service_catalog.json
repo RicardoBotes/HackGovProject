@@ -1,0 +1,40 @@
+{
+  "events": [
+    {
+      "id": "evt1",
+      "title": "Community Lunch",
+      "category": "social",
+      "start_time": "2025-09-05T12:00:00",
+      "location": "Community Hall",
+      "distance_km": 2.1,
+      "accessible": true
+    },
+    {
+      "id": "evt2",
+      "title": "Gentle Yoga for Seniors",
+      "category": "wellbeing",
+      "start_time": "2025-09-06T09:30:00",
+      "location": "Wellness Centre",
+      "distance_km": 4.5,
+      "accessible": true
+    },
+    {
+      "id": "evt3",
+      "title": "Garden Club Meetup",
+      "category": "hobby",
+      "start_time": "2025-09-07T10:00:00",
+      "location": "Botanical Gardens",
+      "distance_km": 7.2,
+      "accessible": false
+    },
+    {
+      "id": "evt4",
+      "title": "Digital Skills Drop-in",
+      "category": "learning",
+      "start_time": "2025-09-08T14:00:00",
+      "location": "Library",
+      "distance_km": 1.3,
+      "accessible": true
+    }
+  ]
+}

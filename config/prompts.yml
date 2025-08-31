@@ -1,0 +1,13 @@
+
+en:
+  greeting: "Hi {name}! I’m PathFinder, your community assistant. I can help you find local activities and organise bookings and reminders."
+  plan_start: "I’ll make a quick plan to get everything sorted."
+  consent_text: "To book and send reminders, I need to use your name and contact details and share them with the event organiser. Do you agree?"
+  consent_declined: "No problem. I won’t proceed without your permission."
+  events_found: "I found {n} nearby activities that match your preferences."
+  event_selected: "I think you’ll enjoy: {title} at {when}."
+  booking_done: "All booked! Your confirmation code is {code}."
+  transport_booked: "Community shuttle confirmed. Pickup time: {pickup}."
+  reminders_set: "I’ve set {count} friendly reminders for you."
+  aftercare: "After your activity, I’ll check in and can suggest more if you like."
+  goodbye: "You’re all set. Have a great time!"
