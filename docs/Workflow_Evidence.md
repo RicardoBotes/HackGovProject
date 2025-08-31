@@ -1,7 +1,7 @@
 
 # PathFinder AI — Workflow & Evidence (Ordered, with Rationale)
 
-**Generated:** 2025-08-31T12:49:51.962875
+ 2025-08-31T12:49:51.962875
 
 ## Phases (Why this order)
 1. **Discovery & Safeguards** — stakeholder mapping, DPIA-lite, risk register, red-flag taxonomy.  
